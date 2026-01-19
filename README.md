@@ -2,12 +2,12 @@
 
 **Good to see you here.**
 
-Some quick facts about my current status:
--  Currently studying Devops related topics (Docker, Kubernetes, Terraform, Jenkins)
--  Active university student studying Computer Science
--  Looking to collaborate on networking-related projects
--  Career goals: network engineer/Linux administrator -> network/system architect -> dev/sec ops (because the cloud will eventually take over)
--  Fun fact: recumbent biker
+Quick facts about me:
+-  DevSecOps Engineer at the Digital Development Center, University of Győr (ddc.sze.hu/en)
+-  CS graduate with specialisation in software development
+-  Looking to collaborate on cybersecurity or network automation projects.
+-  Study goals for 2026: CKA & CISSP
+-  I ride a recumbent bike.
 
 <!--
 **WyattMcLaren/WyattMcLaren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
