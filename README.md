@@ -20,7 +20,7 @@ My engineering philosophy is built around:
 ![GitOps](https://img.shields.io/badge/GitOps-orange?style=for-the-badge)
 ---
 ## Flagship Projects
-### Enterprise-grade security homelab with Talos Linux and FluxCD
+### Enterprise-grade security homelab deployed via FluxCD
 > Production-style Kubernetes platform built for learning, security experimentation, and automation design.
 - Kubernetes multi-node cluster
 - GitOps CI/CD pipelines
