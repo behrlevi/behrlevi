@@ -13,13 +13,11 @@ My engineering philosophy is built around:
 **Automation · Immutability · Zero Trust · Observability · Reproducibility**
 ---
 ## Core Technology Stack
-!Kubernetes
-!GitOps
-!Linux
-!Python
-!Terraform
-!Networking
-!Security
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%23623CE4.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![GitOps](https://img.shields.io/badge/GitOps-orange?style=for-the-badge)
 ---
 ## Flagship Projects
 ### Enterprise-grade security homelab with Talos Linux and FluxCD
