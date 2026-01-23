@@ -76,4 +76,4 @@ My long-term focus is **Platform Security Engineering**.
 - CISSP
 ---
 ## Location
-Hungary · Széchenyi István University
+Hungary · Győr
